@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishants1ngh&label=Profile%20views&color=0e75b6&style=flat" alt="dishants1ngh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishants1ngh" alt="dishants1ngh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dishant_singh14" target="blank"><img src="https://img.shields.io/twitter/follow/dishant_singh14?logo=twitter&style=for-the-badge" alt="dishant_singh14" /></a> </p>
 
 - 🔭 I’m currently working on [Hackerone](https://hackerone.com/dishant_singh)
